@@ -1,0 +1,28 @@
+﻿<project version="2.9" name="计划管理" ID="036EA339-4757-4FCC-BF21-E76AECC94BD6">
+  <params>
+    <pageParam version="5.3" minAllowVersion="5.3"/>
+    <projectParam version="2.9" minAllowVersion="2.9" platform="MtDesktop" pageSize="(1267,678)" backgroundColor="4294967295" fontSize="12" fontFamily="Segoe UI" projectType="ptPersonalProject" isShowTitleIndex="False"/>
+    <previewParam version="1.0"/>
+    <colorParam version="1.0"/>
+  </params>
+  <pages>
+    <page name="钢材分析" ID="F5091031-238D-48A5-BCB3-58EE5140D3F6" expanded="True" code="uONm79hvVa" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+      <images>
+        <image key="C6B094602C9A7594417D999269EEC87F.svg"/>
+        <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+      </images>
+      <page name="页面" ID="AE50FE92-65BE-44E0-83DD-9C9A9F34F7A6" expanded="True" code="VrXZjnIGAt" thumbCode="" status="psWhite" isfolder="False" isshownode="True">
+        <images>
+          <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+        </images>
+      </page>
+    </page>
+  </pages>
+  <trash/>
+  <deletes/>
+  <masters/>
+  <images>
+    <image key="E81ED979293FF1C7F35153E7BDA571B8.svg"/>
+    <image key="C6B094602C9A7594417D999269EEC87F.svg"/>
+  </images>
+</project>
